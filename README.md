@@ -1,6 +1,8 @@
 I've included 2 files, one is labeled unsolved and contains the vbs code and an excel workbook that has not been edited in any other way, running the vba script will populate the workbook with the correct numbers that were requested in the instructions.
 The second file is labeled solved and it contains a workbook that has already run the vbs code.
 
+When you download the files, you may need to go into properties by right clicking the file in your download file, and checking the box that allows for files with macros to be allowed to run on your computer.
+
 The instructions for the assignment were as follows:
 
 Create a script that loops through all the stocks for each quarter and outputs the following information:
